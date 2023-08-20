@@ -51,7 +51,7 @@
         </div>
         <!-- /.footer-utl-links -->
         <!-- .footer-social-links -->
-        <div class="footer-social-links">
+        <div class="footer-social-links" id="twitter">
           <ul class="social">
             <li class="follow">
               Follow
